@@ -26,14 +26,21 @@ int main()
     // area=1.0/2.0*(a+b)*h;
     // printf("result of area: %.2lf",area);
 
-        // math function 
-        int x , y ,z;
-        printf("enter number of x:");
+        // math function exponent(​x^y)
+        // int x , y ,z;
+        // printf("enter number of x:");
+        // scanf("%d",&x);
+        // printf("enter number of y:");
+        // scanf("%d",&y);
+        // z=pow(x,y);
+        // printf("%d in the power of %d : is  %d ", x,y, z);
+
+        //square root input from user 
+        int x,answer;
+        printf("enter the the number: ");
         scanf("%d",&x);
-        printf("enter number of y:");
-        scanf("%d",&y);
-        z=pow(x,y);
-        printf("%d in the power of %d : is  %d ", x,y, z);
+        answer = sqrt(x);
+        printf("square root of %d is :%d ",x,answer);
     return 0;
     
 }
