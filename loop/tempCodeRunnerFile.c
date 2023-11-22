@@ -1,13 +1,11 @@
-int mian(){
-    int n1, n2,i; 
-    printf("Enter 2 number n1 n2:");
-    scanf("%d %d" , &n1, &n2);
-    for (i=n1 ; i<=n2 ; i++)
-    {
-        if (i  %2==0)
-        {
-            printf("%d",i);
-        }
-    }
-    return 0 ; 
-}
+   // //Q2. 10 9 8 7 6 5 4 3 2 1
+    // for(i=10 ; i>=1 ; i--)
+    // {
+
+    //     printf("\n%d",i);
+    // }
+    // //Q3. 2 4 6 8 10
+    // for (i=2 ; i<=10 ;i=i+2)
+    // {
+    //     printf(" 2 4 6%d",i);
+    // }
