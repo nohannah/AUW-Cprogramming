@@ -1,0 +1,12 @@
+sort1 uses: Bubble Sort
+
+How do you know?: becasue it take less time and more time to sort and it is not accurate according to the time
+
+sort2 uses: Merge Sort
+
+How do you know?: it take the same and less time for sort and random list in txt
+
+sort3 uses: Selection Sort
+
+How do you know?: it take the about the same time and more time for sorted and random list
+
